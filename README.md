@@ -1,4 +1,5 @@
-# Olá eu sou a Izabella Santos, estudante de Desenvolvimento de Sistemas!
+# Olá, sou a Izabella! aqui está um pouco dos meus conhecimentos.
+
 <div align="center">
   <a href="https://github.com/bll08">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=bll08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
